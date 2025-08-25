@@ -20,8 +20,8 @@ La base de datos ("Vino Tinto.csv") cuenta con la siguiente información:
 - “alcohol”. Volúmen percentil de alcohol en el vino.
 - “calidad”. Mediana de la calidad otorgada por al menos tres catadores, en escala del 0 (muy malo) al 10 (excelente).
 
-Este proyeecto incluye los siguientes documentos.
-<a href="[https://www.homepage.com](https://github.com/JafetGS/Selecci-n_de_Caracter-sticas/blob/main/Selecci%C3%B3n%20de%20caracter%C3%ADsticas.html)>Reporte en formato html</a>
-<a href="https://github.com/JafetGS/Selecci-n_de_Caracter-sticas/blob/main/Selecci%C3%B3n%20de%20caracter%C3%ADsticas.pdf>Reporte en formato pdf</a>
-<a href="https://github.com/JafetGS/Selecci-n_de_Caracter-sticas/blob/main/Selecci%C3%B3n%20de%20caracter%C3%ADsticas.ipynb>Reporte en formato ipynb</a>
-<a href="[https://www.homepage.com](https://github.com/JafetGS/Selecci-n_de_Caracter-sticas/blob/main/Vino%20Tinto.csv)>Base de datos</a>
+Este proyeecto incluye los siguientes documentos:
+[Reporte en formato html](https://github.com/JafetGS/Selecci-n_de_Caracter-sticas/blob/main/Selecci%C3%B3n%20de%20caracter%C3%ADsticas.html)
+[Reporte en formato pdf](https://github.com/JafetGS/Selecci-n_de_Caracter-sticas/blob/main/Selecci%C3%B3n%20de%20caracter%C3%ADsticas.pdf)
+[Reporte en formato ipynb](https://github.com/JafetGS/Selecci-n_de_Caracter-sticas/blob/main/Selecci%C3%B3n%20de%20caracter%C3%ADsticas.ipynb)
+[Base de datos](https://github.com/JafetGS/Selecci-n_de_Caracter-sticas/blob/main/Vino%20Tinto.csv)
